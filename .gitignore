@@ -33,3 +33,8 @@ mlruns
 # TensorBoard logs
 dqn_cliff_tensorboard/
 dqn_cliff_tensorboard_fast/
+
+# Allow these specific model artifacts for this challenge
+!best_dqn_cliffwalking.zip
+!dqn_cliffwalking_1k.zip
+!dqn_cliffwalking_fast.zip
