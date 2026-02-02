@@ -29,3 +29,7 @@ mlruns
 
 # Challengify - test challengification files
 *_challengify*
+
+# TensorBoard logs
+dqn_cliff_tensorboard/
+dqn_cliff_tensorboard_fast/
